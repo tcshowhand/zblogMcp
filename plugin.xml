@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>zblogMcp</id>
+<name>zblogMCP服务管家</name>
+<url>http://blog.waytomilky.com/</url>
+<note>zblogMCP服务管家, zblog mcp服务 , 让AI读懂你的文章  , 一键接入龙虾工作台, 提供 ApiKey 管理和 MCP 请求日志记录功能, 专业级别的权限和能力控制</note>
+<description>zblogMCP服务管家  , zblog mcp服务, 让AI读懂你的文章， 一键接入龙虾工作台 , 提供 ApiKey 管理和 MCP 请求日志记录功能, 专业级别的权限和能力控制</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>玄火</name>
+  <email>whndeweilai@163.com</email>
+  <url>http://blog.waytomilky.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>172900</adapted>
+<version>1.5.0</version>
+<pubdate>2026-07-27</pubdate>
+<modified>2026-10-09</modified>
+<price>0</price>
+<phpver>7.1</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+  <sidebar6></sidebar6>
+  <sidebar7></sidebar7>
+  <sidebar8></sidebar8>
+  <sidebar9></sidebar9>
+</sidebars>
+</plugin>
